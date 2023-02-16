@@ -25,4 +25,5 @@
 
 <h3 align="center">Statistics:</h3>
 
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pgm-jamevanw&show_icons=true&locale=en" alt="pgm-jamevanw" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pgm-jamevanw&show_icons=true&locale=en" alt="pgm-jamevanw" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
