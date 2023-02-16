@@ -25,6 +25,6 @@
 
 <h3 align="center">Statistics:</h3>
 
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pgm-jamevanw&show_icons=true&locale=en" alt="pgm-jamevanw" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgm-jamevanw&show_icons=true&locale=en" alt="pgm-jamevanw" /></p>
 
 
