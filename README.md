@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm James Van Weyenbergh</h1>
 <h3 align="center">A programming student at Arteveldehogeschool</h3>
 
+<p align="left">
+  My favorite thing to do is front-end development. I enjoy being creative and i am very proud of my work.
+  This is on of my many websites i remade: https://pgmgent-atwork-1.github.io/opdracht-2-gentse-feesten-2022-pgm-jamevanw/
+</p>
+
 - 🌱 I’m currently learning **Express, communication & figma**
 
 - 📫 How to reach me **james.vanweyenbergh@outlook.com**
